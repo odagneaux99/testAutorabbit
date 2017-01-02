@@ -314,6 +314,7 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>Utilisateur standard %2B%2B</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
@@ -411,6 +412,7 @@
         <members>Contact</members>
         <members>Jobs__c</members>
         <members>Lead</members>
+        <members>Livre__c</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>User</members>
