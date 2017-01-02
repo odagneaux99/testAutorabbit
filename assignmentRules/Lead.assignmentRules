@@ -3,23 +3,5 @@
     <assignmentRule>
         <fullName>Standard</fullName>
         <active>true</active>
-        <ruleEntry>
-            <assignedTo>dev1@texei.com</assignedTo>
-            <assignedToType>User</assignedToType>
-            <criteriaItems>
-                <field>Lead.Country</field>
-                <operation>equals</operation>
-                <value>US,USA,United States,United States of America</value>
-            </criteriaItems>
-        </ruleEntry>
-        <ruleEntry>
-            <assignedTo>dev1@texei.com</assignedTo>
-            <assignedToType>User</assignedToType>
-            <criteriaItems>
-                <field>Lead.Country</field>
-                <operation>notEqual</operation>
-                <value>US,USA,United States,United States of America</value>
-            </criteriaItems>
-        </ruleEntry>
     </assignmentRule>
 </AssignmentRules>
