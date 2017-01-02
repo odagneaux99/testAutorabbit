@@ -55,6 +55,17 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Nb_de_pages__c</fullName>
+        <externalId>false</externalId>
+        <label>Nb de pages</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
     <gender>Masculine</gender>
     <label>Livre</label>
     <listViews>

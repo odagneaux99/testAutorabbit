@@ -927,6 +927,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Livre__c.Nb_de_pages__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Metric.OrigMetricId__c</field>
         <readable>false</readable>
@@ -1315,6 +1320,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Livre__c-Présentation Livre</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>

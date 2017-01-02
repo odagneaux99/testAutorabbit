@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Livre__c.Nb_de_pages__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>Livre__c-Présentation Livre</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
