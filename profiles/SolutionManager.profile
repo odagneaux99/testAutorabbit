@@ -928,6 +928,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Livre__c.Auteur__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Livre__c.Nb_de_pages__c</field>
         <readable>true</readable>
     </fieldPermissions>

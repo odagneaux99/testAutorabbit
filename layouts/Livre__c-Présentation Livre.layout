@@ -14,6 +14,10 @@
                 <behavior>Edit</behavior>
                 <field>Nb_de_pages__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Auteur__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
