@@ -57,6 +57,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Auteur__c</fullName>
+        <description>Auteur du livre</description>
         <externalId>false</externalId>
         <label>Auteur</label>
         <length>20</length>
