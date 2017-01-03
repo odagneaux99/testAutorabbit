@@ -63,7 +63,9 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Livre__c.Auteur__c</members>
+        <members>Livre__c.Ecrivain__c</members>
         <members>Livre__c.Nb_de_pages__c</members>
+        <members>Livre__c.Producteur__c</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
@@ -279,6 +281,10 @@
         <members>Contact</members>
         <members>Lead</members>
         <name>MatchingRules</name>
+    </types>
+    <types>
+        <members>Livres_Permissions_Sets</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>Admin</members>
