@@ -64,6 +64,7 @@
         <members>Lead.SICCode__c</members>
         <members>Livre__c.Auteur__c</members>
         <members>Livre__c.Ecrivain__c</members>
+        <members>Livre__c.Nb_chapitre__c</members>
         <members>Livre__c.Nb_de_pages__c</members>
         <members>Livre__c.Producteur__c</members>
         <members>Metric.OrigMetricId__c</members>
